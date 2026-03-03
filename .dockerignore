@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+conda
+env
+.git
+.ipynb_checkpoints
+*.ipynb
+data/
+models/
